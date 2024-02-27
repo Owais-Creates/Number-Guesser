@@ -33,6 +33,7 @@ h1{
     padding: 20px;
     font-weight: 900;
     margin-bottom: 30px;
+    cursor: pointer;
 }
 
 #result p{
